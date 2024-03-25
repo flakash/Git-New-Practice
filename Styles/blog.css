@@ -1,3 +1,5 @@
 div{
     color: maroon;
+    border: 2px solid black;
+    margin: 5px;
 }
